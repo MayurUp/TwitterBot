@@ -1,0 +1,164 @@
+{
+  "created_at": "Fri Feb 10 09:40:01 +0000 2017",
+  "id": 829988281513287700,
+  "id_str": "829988281513287680",
+  "text": "Man takes online revenge after woman rejects him\nhttps://t.co/oomLFEDDXU https://t.co/FiqtEnsGkr",
+  "display_text_range": [
+    0,
+    72
+  ],
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 134758540,
+    "id_str": "134758540",
+    "name": "Times of India",
+    "screen_name": "timesofindia",
+    "location": "New Delhi",
+    "url": "http://www.timesofindia.com",
+    "description": "News. Views. Analyses. Conversations. India’s No.1 digital news destination, world’s largest-selling English newspaper.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 9175655,
+    "friends_count": 500,
+    "listed_count": 10082,
+    "favourites_count": 253,
+    "statuses_count": 301831,
+    "created_at": "Mon Apr 19 10:50:15 +0000 2010",
+    "utc_offset": 19800,
+    "time_zone": "New Delhi",
+    "geo_enabled": false,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94861244/toi_twitter2b.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/781514680732749824/PG2_gebm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/134758540/1486531118",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/oomLFEDDXU",
+        "expanded_url": "http://bit.ly/2kVOrML",
+        "display_url": "bit.ly/2kVOrML",
+        "indices": [
+          49,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 829974356923183100,
+        "id_str": "829974356923183104",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/C4SpR70W8AAAwIC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/C4SpR70W8AAAwIC.jpg",
+        "url": "https://t.co/FiqtEnsGkr",
+        "display_url": "pic.twitter.com/FiqtEnsGkr",
+        "expanded_url": "https://twitter.com/timesofindia/status/829988281513287680/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 551,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1525,
+            "h": 1235,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 972,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 829974356923183100,
+        "id_str": "829974356923183104",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/C4SpR70W8AAAwIC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/C4SpR70W8AAAwIC.jpg",
+        "url": "https://t.co/FiqtEnsGkr",
+        "display_url": "pic.twitter.com/FiqtEnsGkr",
+        "expanded_url": "https://twitter.com/timesofindia/status/829988281513287680/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 551,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1525,
+            "h": 1235,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 972,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1486719601406"
+}

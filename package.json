@@ -1,0 +1,26 @@
+{
+  "name": "la_polo",
+  "version": "1.0.0",
+  "description": "It help's  to retwittet on our twitter account.",
+  "main": "bot.js",
+  "dependencies": {
+    "iscool": "^1.1.30",
+    "node-twitterbot": "^0.2.2",
+    "request": "^2.79.0",
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "La",
+    "Polo",
+    "Connecting",
+    "Polo",
+    "Globally"
+  ],
+  "author": "Mayur Gupta",
+  "license": "ISC"
+}
